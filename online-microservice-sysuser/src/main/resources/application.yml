@@ -1,0 +1,9 @@
+#服务端口
+server:
+  port: 8120
+  #服务名
+spring:
+  application:
+    name: online-sysuser
+  profiles:
+    active: dev

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.losemen.edu.mapper.SubjectMapper">
+
+    <resultMap id="subjectAll" type="cn.losemen.edu.vo.SubjectAllVo">
+        <id property="id" column="id"></id>
+        <result property="title" column="title"></result>
+        <collection property="children"
+                    ofType="cn.losemen.edu.vo.SubjectAllVo"
+                    column="id"
+                    select="selectSubjectList"></collection>
+    </resultMap>
+    <select id="selectSubjectList" resultMap="subjectAll">
+        select id,title,parent_id from edu_subject
+        where parent_id = #{parenrId}
+    </select>
+</mapper>

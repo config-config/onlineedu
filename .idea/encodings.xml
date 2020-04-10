@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/online-commonservice-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/online-framework-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/online-framework-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/online-micorservice-vod" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/online-microservice-edu" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/online-microservice-statistics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/online-microservice-sysuser" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/online-microservice-ucenter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/online-microservicee-oss" charset="UTF-8" />
+  </component>
+</project>

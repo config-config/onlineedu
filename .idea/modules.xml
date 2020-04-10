@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/online-commonservice-eureka/online-commonservice-eureka.iml" filepath="$PROJECT_DIR$/online-commonservice-eureka/online-commonservice-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-framework-common/online-framework-common.iml" filepath="$PROJECT_DIR$/online-framework-common/online-framework-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-framework-parent/online-framework-parent.iml" filepath="$PROJECT_DIR$/online-framework-parent/online-framework-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-micorservice-vod/online-micorservice-vod.iml" filepath="$PROJECT_DIR$/online-micorservice-vod/online-micorservice-vod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-microservice-edu/online-microservice-edu.iml" filepath="$PROJECT_DIR$/online-microservice-edu/online-microservice-edu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-microservice-statistics/online-microservice-statistics.iml" filepath="$PROJECT_DIR$/online-microservice-statistics/online-microservice-statistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-microservice-sysuser/online-microservice-sysuser.iml" filepath="$PROJECT_DIR$/online-microservice-sysuser/online-microservice-sysuser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-microservice-ucenter/online-microservice-ucenter.iml" filepath="$PROJECT_DIR$/online-microservice-ucenter/online-microservice-ucenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/online-microservicee-oss/online-microservicee-oss.iml" filepath="$PROJECT_DIR$/online-microservicee-oss/online-microservicee-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/onlineedu.iml" filepath="$PROJECT_DIR$/.idea/onlineedu.iml" />
+    </modules>
+  </component>
+</project>

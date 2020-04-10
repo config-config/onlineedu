@@ -1,0 +1,17 @@
+#端口号
+server:
+  port: 8130
+  #服务名
+spring:
+  application:
+    name: aliyun-oss
+#环境
+  profiles:
+    active: dev
+#oss
+aliyunossfile:
+  endpoint: oss-cn-beijing.aliyuncs.com
+  key-id: LTAI4FwGnafnb9yxkswRu5MR
+  key-secret: e669dSjIO9ZQq3kEnSG75g8PhZPciL
+  bucket-name: online----edu
+  file-host: avatar

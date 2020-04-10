@@ -1,0 +1,9 @@
+# Project exclude paths
+/online-commonservice-eureka/target/
+/online-framework-common/target/
+/online-micorservice-vod/target/
+/online-microservice-edu/target/
+/online-microservice-statistics/target/
+/online-microservice-sysuser/target/
+/online-microservice-ucenter/target/
+/online-microservicee-oss/target/
