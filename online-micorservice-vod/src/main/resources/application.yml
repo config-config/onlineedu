@@ -19,6 +19,6 @@ spring:
   #阿里云 vod
   #不同的服务器，地址不同
 aliyunvodfile:
-  key-id: LTAI4FwGnafnb9yxkswRu5MR
-  key-secret: e669dSjIO9ZQq3kEnSG75g8PhZPciL
+  key-id: LTAI4FwGnafnb9yxksw
+  key-secret: e669dSjIO9ZQq3kEnSG75g8PhZ
 
