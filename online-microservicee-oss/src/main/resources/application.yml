@@ -11,7 +11,7 @@ spring:
 #oss
 aliyunossfile:
   endpoint: oss-cn-beijing.aliyuncs.com
-  key-id: LTAI4FwGnafnb9yxkswRu5MR
-  key-secret: e669dSjIO9ZQq3kEnSG75g8PhZPciL
+  key-id: LTAI4FwGnafnb9yxksw
+  key-secret: e669dSjIO9ZQq3kEnSG75g8Ph
   bucket-name: online----edu
   file-host: avatar
